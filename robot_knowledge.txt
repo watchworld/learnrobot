@@ -1,0 +1,104 @@
+ROS(indigo)机器人操作系统学习资料和常用功能包汇总整理(ubuntu14.04LTS)
+1. 网站资源：
+
+ROSwiki官网：http://wiki.ros.org/cn
+
+GitHub           ：https://github.com/
+
+ExBot             ：http://blog.exbot.net/
+
+ROSwiki        ：http://www.roswiki.com/
+
+ROSClub      ：http://www.rosclub.cn/
+
+OSRF            ：http://www.osrfoundation.org/
+
+Robots          ：http://wiki.ros.org/Robots
+
+Sensors        ：http://wiki.ros.org/Sensors
+
+Books            ：http://wiki.ros.org/Books
+
+Courses        ：http://wiki.ros.org/Courses
+
+仿真环境主要有：
+
+Gazebo         ：http://gazebosim.org/
+
+v-rep              ：http://www.v-rep.eu/
+
+morse            ：https://www.openrobots.org/wiki/morse
+
+这些具有非常完备的ROS接口，并且在持续更新中。
+
+算法介绍主要有：
+
+mrpt               ：http://www.mrpt.org/
+
+OpenSLAM  ：http://openslam.org/
+
+PCL               ：http://pointclouds.org/
+
+OpenCV       ：http://opencv.org/
+
+需要参考的书籍及相关资料，大部分都可以在上述网址上找到。
+2. ROS常用功能包（以有源码为主）
+2.1 ros-teleop
+
+Packages especially for teleoperating ROS robots
+
+包括用手柄，键盘以及鼠标为输入设备控制机器人。
+
+https://github.com/ros-teleop
+2.2 robopeak-rplidar
+
+master ：https://github.com/robopeak/rplidar_ros/tree/master
+
+SLAM  ：https://github.com/robopeak/rplidar_ros/tree/slam
+2.3 camera
+
+usb         ：https://github.com/bosch-ros-pkg/usb_cam
+
+uvc         ：http://wiki.ros.org/uvc_camera
+
+openni2：https://github.com/ros-drivers/openni2_camera
+
+freenect：https://github.com/ros-drivers/freenect_stack
+2.4 introlab
+
+rtabmap_ros：http://introlab.github.io/rtabmap/
+
+                       ：https://github.com/introlab/rtabmap/tree/indigo-devel
+
+find_object   ：http://introlab.github.io/find-object/
+
+                       ：https://github.com/introlab/find-object
+2.5 face？
+
+pi_vision      ：https://github.com/hansonrobotics/pi_vision
+
+cob_             ：http://wiki.ros.org/cob_people_perception
+
+people_       ：https://github.com/ipa-rmb/cob_people_perception
+
+perception   ：https://github.com/ipa-rmb
+2.6 serial
+
+rosserial      ：http://wiki.ros.org/rosserial
+
+                      ：https://github.com/ros-drivers/rosserial/tree/indigo-devel
+
+serial            ：https://wjwwood.github.com/serial/
+
+                      ：https://github.com/wjwwood/serial
+2.7 Android
+
+rosjava        ：https://github.com/rosjava
+
+ros-Android：https://github.com/ros-android
+2.8 MoveIt!
+
+moveit         ：http://moveit.ros.org/
+2.9 ros-planning
+
+ros-planning：https://github.com/ros-planning
